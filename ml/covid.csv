@@ -1,0 +1,15 @@
+symptom1,symptom2,health_condition,diagnosis
+yes,no,none,1
+no,yes,none,0
+yes,yes,none,1
+no,no,none,0
+yes,no,condition1,1
+no,yes,condition1,0
+yes,yes,condition1,1
+no,no,condition1,0
+yes,yes,condition2,1
+no,yes,condition2,0
+yes,no,condition2,1
+no,no,condition2,0
+yes,yes,none,1
+no,no,none,0
